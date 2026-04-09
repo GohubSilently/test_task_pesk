@@ -8,4 +8,5 @@ dependencies = [
     "fastapi[standard]>=0.135.3",
     "pyjwt>=2.12.1",
     "redis>=7.4.0",
+    "ruff>=0.15.9",
 ]
