@@ -1,4 +1,4 @@
-# Тестовое задание для 'ПЭСК'
+# Тестовое задание для 'ПЭСК'.
 
 [![Python](https://img.shields.io/badge/-Python_3.13-3771a1?style=flat&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=ffffff)](https://fastapi.tiangolo.com/)
@@ -117,7 +117,10 @@ TTL записей соответствует времени жизни токе
 │   ├── __init__.py
 │   └── main.py
 ├── .env.example
+├── .gitignore
 ├── .python-version
+├── docker-compose.yaml
+├── Dockerfile
 ├── pyproject.toml
 ├── README.md
 └── uv.lock
